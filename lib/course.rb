@@ -1,4 +1,5 @@
 class Course
   
+  att
 end
 
